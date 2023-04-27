@@ -1,4 +1,4 @@
-#include main.h
+#include "main.h"
 /* Check if the letter is upper or not */
 
 int _isupper(int c)
