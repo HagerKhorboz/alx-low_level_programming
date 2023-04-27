@@ -11,11 +11,11 @@ int _isupper(int t)
 {
 	if (t >= 65 && t <= 90)
 	{
-		return 1;
+		return (1);
 	}
 	else
 	{
-		return 0;
+		return (0);
 	}
 }
 
